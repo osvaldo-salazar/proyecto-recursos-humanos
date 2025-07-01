@@ -1,0 +1,76 @@
+
+
+.filtros{
+    width: 250px;
+    display: inline-block;
+    margin-right: 20px;
+    margin-bottom: 20px
+}
+
+.centrado{
+    text-align: center;
+    margin-bottom: 20px;
+    width: 100%;
+}
+
+#imgLogoResultado{
+    width: 150px;
+}
+
+.texto_resultado{
+    font-size: 16px;
+}
+
+.mayu{
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.texto_titulos{
+    font-size: 16px;
+    font-weight: bold;
+    margin-top: 30px;
+}
+
+.tabla{
+    width: 600px;
+    border: 1px solid #ccc;
+}
+
+.tabla td{
+    width:50%;
+    border: 1px solid black;
+    padding: 10px;
+}
+
+.titulos{
+    font-weight: bold;
+}
+
+.contenedor_tabla{
+    display: flex;
+    justify-content: center; /* Centra horizontalmente */
+}
+
+.mi-lista li {
+    font-weight: bold; /* Texto en negrita */
+    margin-bottom: 5px; /* Espacio entre los elementos */
+}
+
+.iconFile{width: 20px;}
+
+.centrar_boton{
+    margin-top: 50px;
+    margin-right: auto;
+    margin-left: auto;
+    width: 150px;
+}
+
+@media (max-width: 600px) {
+
+    .filtros{
+        width: 100%;
+        display: block;
+        margin-right: 0px;
+    }
+}

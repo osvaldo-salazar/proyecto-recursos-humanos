@@ -1,0 +1,10 @@
+[13-Dec-2024 01:48:04 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'proyectos_registros_root'@'localhost' (using password: YES) in /home/proyectos/public_html/rrhh/includes/conexion.php:2
+Stack trace:
+#0 /home/proyectos/public_html/rrhh/includes/conexion.php(2): mysqli_connect('localhost', 'proyectos_regis...', Object(SensitiveParameterValue), 'proyectos_regis...')
+#1 {main}
+  thrown in /home/proyectos/public_html/rrhh/includes/conexion.php on line 2
+[13-Dec-2024 01:48:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'proyectos_registros_root'@'localhost' (using password: YES) in /home/proyectos/public_html/rrhh/includes/conexion.php:2
+Stack trace:
+#0 /home/proyectos/public_html/rrhh/includes/conexion.php(2): mysqli_connect('localhost', 'proyectos_regis...', Object(SensitiveParameterValue), 'proyectos_regis...')
+#1 {main}
+  thrown in /home/proyectos/public_html/rrhh/includes/conexion.php on line 2

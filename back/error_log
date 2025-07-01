@@ -1,0 +1,78 @@
+[03-Dec-2024 17:12:44 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/proyectos/public_html/rrhh/includes/conexion.php:2
+Stack trace:
+#0 /home/proyectos/public_html/rrhh/includes/conexion.php(2): mysqli_connect('localhost', 'root', Object(SensitiveParameterValue), 'progra2')
+#1 /home/proyectos/public_html/rrhh/back/login-procesar.php(3): include('/home/proyectos...')
+#2 {main}
+  thrown in /home/proyectos/public_html/rrhh/includes/conexion.php on line 2
+[03-Dec-2024 17:13:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/proyectos/public_html/rrhh/includes/conexion.php:2
+Stack trace:
+#0 /home/proyectos/public_html/rrhh/includes/conexion.php(2): mysqli_connect('localhost', 'root', Object(SensitiveParameterValue), 'progra2')
+#1 /home/proyectos/public_html/rrhh/back/login-procesar.php(3): include('/home/proyectos...')
+#2 {main}
+  thrown in /home/proyectos/public_html/rrhh/includes/conexion.php on line 2
+[07-Dec-2024 05:41:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/proyectos/public_html/rrhh/includes/conexion.php:2
+Stack trace:
+#0 /home/proyectos/public_html/rrhh/includes/conexion.php(2): mysqli_connect('localhost', 'root', Object(SensitiveParameterValue), 'registros')
+#1 /home/proyectos/public_html/rrhh/back/login-procesar.php(3): include('/home/proyectos...')
+#2 {main}
+  thrown in /home/proyectos/public_html/rrhh/includes/conexion.php on line 2
+[07-Dec-2024 05:42:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/proyectos/public_html/rrhh/includes/conexion.php:2
+Stack trace:
+#0 /home/proyectos/public_html/rrhh/includes/conexion.php(2): mysqli_connect('localhost', 'root', Object(SensitiveParameterValue), 'registros')
+#1 /home/proyectos/public_html/rrhh/back/login-procesar.php(3): include('/home/proyectos...')
+#2 {main}
+  thrown in /home/proyectos/public_html/rrhh/includes/conexion.php on line 2
+[07-Dec-2024 05:42:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/proyectos/public_html/rrhh/includes/conexion.php:2
+Stack trace:
+#0 /home/proyectos/public_html/rrhh/includes/conexion.php(2): mysqli_connect('localhost', 'root', Object(SensitiveParameterValue), 'registros')
+#1 /home/proyectos/public_html/rrhh/back/login-procesar.php(3): include('/home/proyectos...')
+#2 {main}
+  thrown in /home/proyectos/public_html/rrhh/includes/conexion.php on line 2
+[07-Dec-2024 05:42:59 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/proyectos/public_html/rrhh/includes/conexion.php:2
+Stack trace:
+#0 /home/proyectos/public_html/rrhh/includes/conexion.php(2): mysqli_connect('localhost', 'root', Object(SensitiveParameterValue), 'registros')
+#1 /home/proyectos/public_html/rrhh/back/login-procesar.php(3): include('/home/proyectos...')
+#2 {main}
+  thrown in /home/proyectos/public_html/rrhh/includes/conexion.php on line 2
+[07-Dec-2024 13:58:55 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/proyectos/public_html/rrhh/includes/conexion.php:2
+Stack trace:
+#0 /home/proyectos/public_html/rrhh/includes/conexion.php(2): mysqli_connect('localhost', 'root', Object(SensitiveParameterValue), 'registros')
+#1 /home/proyectos/public_html/rrhh/back/login-procesar.php(3): include('/home/proyectos...')
+#2 {main}
+  thrown in /home/proyectos/public_html/rrhh/includes/conexion.php on line 2
+[07-Dec-2024 13:59:02 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/proyectos/public_html/rrhh/includes/conexion.php:2
+Stack trace:
+#0 /home/proyectos/public_html/rrhh/includes/conexion.php(2): mysqli_connect('localhost', 'root', Object(SensitiveParameterValue), 'registros')
+#1 /home/proyectos/public_html/rrhh/back/login-procesar.php(3): include('/home/proyectos...')
+#2 {main}
+  thrown in /home/proyectos/public_html/rrhh/includes/conexion.php on line 2
+[07-Dec-2024 13:59:16 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/proyectos/public_html/rrhh/includes/conexion.php:2
+Stack trace:
+#0 /home/proyectos/public_html/rrhh/includes/conexion.php(2): mysqli_connect('localhost', 'root', Object(SensitiveParameterValue), 'registros')
+#1 /home/proyectos/public_html/rrhh/back/login-procesar.php(3): include('/home/proyectos...')
+#2 {main}
+  thrown in /home/proyectos/public_html/rrhh/includes/conexion.php on line 2
+[13-Dec-2024 01:33:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/proyectos/public_html/rrhh/includes/conexion.php:2
+Stack trace:
+#0 /home/proyectos/public_html/rrhh/includes/conexion.php(2): mysqli_connect('localhost', 'root', Object(SensitiveParameterValue), 'registros')
+#1 /home/proyectos/public_html/rrhh/back/login-procesar.php(3): include('/home/proyectos...')
+#2 {main}
+  thrown in /home/proyectos/public_html/rrhh/includes/conexion.php on line 2
+[13-Dec-2024 01:37:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/proyectos/public_html/rrhh/includes/conexion.php:2
+Stack trace:
+#0 /home/proyectos/public_html/rrhh/includes/conexion.php(2): mysqli_connect('localhost', 'root', Object(SensitiveParameterValue), 'registros')
+#1 /home/proyectos/public_html/rrhh/back/login-procesar.php(3): include('/home/proyectos...')
+#2 {main}
+  thrown in /home/proyectos/public_html/rrhh/includes/conexion.php on line 2
+[13-Dec-2024 01:45:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/proyectos/public_html/rrhh/includes/conexion.php:2
+Stack trace:
+#0 /home/proyectos/public_html/rrhh/includes/conexion.php(2): mysqli_connect('localhost', 'root', Object(SensitiveParameterValue), 'registros')
+#1 /home/proyectos/public_html/rrhh/back/login-procesar.php(3): include('/home/proyectos...')
+#2 {main}
+  thrown in /home/proyectos/public_html/rrhh/includes/conexion.php on line 2
+[13-Dec-2024 01:47:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'proyectos_registros_root'@'localhost' (using password: YES) in /home/proyectos/public_html/rrhh/includes/conexion.php:2
+Stack trace:
+#0 /home/proyectos/public_html/rrhh/includes/conexion.php(2): mysqli_connect('localhost', 'proyectos_regis...', Object(SensitiveParameterValue), 'proyectos_regis...')
+#1 /home/proyectos/public_html/rrhh/back/login-procesar.php(3): include('/home/proyectos...')
+#2 {main}
+  thrown in /home/proyectos/public_html/rrhh/includes/conexion.php on line 2
